@@ -1,3 +1,4 @@
+```
 # Download & write rpi image
 # Assuming: 2017-04-10-raspbian-jessie-lite
 
@@ -50,4 +51,4 @@ chmod +x backup.sh
 ## 0) Single drive
 sudo su -c "echo '/dev/sda1 /data/virtual ext3 defaults 1 2' >> /etc/fstab"
 sudo mount -a
-
+```

@@ -1,4 +1,4 @@
-# For an enclusure see [rpi-drive](https://github.com/msonst/rpi-drive)
+For an enclusure see [rpi-drive](https://github.com/msonst/rpi-drive)
 
 ```
 ################################################################################

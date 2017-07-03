@@ -1,3 +1,6 @@
+# For an enclusure see [rpi-drive](https://github.com/msonst/rpi-drive)
+
+```
 ################################################################################
 #  Copyright (c) 2017, Michael Sonst, All Rights Reserved.
 # 
@@ -14,9 +17,6 @@
 #  limitations under the License.
 ################################################################################
 
-# For an enclusure see [rpi-drive](https://github.com/msonst/rpi-drive)
-
-```
 # Download & write rpi image
 # Assuming: 2017-04-10-raspbian-jessie-lite
 
